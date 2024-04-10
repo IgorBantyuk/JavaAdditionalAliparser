@@ -1,4 +1,4 @@
-package edu.ntu.dp.sa;
+package edu.ntu.dp.sa.services;
 import edu.ntu.dp.sa.model.Item;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
